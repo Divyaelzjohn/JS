@@ -21,7 +21,7 @@ const arr=[
         place:'Kollam'
     }
 ]
-/* ----forEch----*/
+/* ----forEach----*/
 // let sum=0
 // // console.log(arr)
 // arr.forEach((item,index)=>{
