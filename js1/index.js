@@ -115,7 +115,7 @@
 //     console.log(count)
 // }
 
-let saveEl=document.getElementById("save-el")
+/*let saveEl=document.getElementById("save-el")
 let countEl=document.getElementById("count-el")
 let count=0
 
@@ -133,3 +133,5 @@ function save(){
     count=0
     // console.log(count)
 } 
+*/
+

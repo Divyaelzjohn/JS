@@ -7,8 +7,8 @@
     else{
         label.innerText=''
     }
-}*/
-/*function validate(value){
+}
+function validate(value){
     // const regex=/^\d{1,2}-\d{1,2}-\d{4}$/i
     const regex=/^([012]?\d|3[01])-([0]?\d|1[012])-\d{4}$/i
     const result=regex.test(value)
@@ -39,3 +39,12 @@
 i
 m
 g --global*/
+
+
+// Look Ahead,Look behind
+
+
+// syntax--(?= ) --positivelookahead
+// syntax--(?<= ) --positivelookbehind
+// syntax--(?! )--Negativeloookahead
+// syntax---(?<! )--Negativelookbehind
